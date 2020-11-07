@@ -16,9 +16,9 @@ Each Technology is Complex and Big, and Integrate all together also is Complex.
 First Steps
 ***********
 
-Choose rigth Technologies and Solutions with Proofs of Concept ( PoC ).
+Choose right Technologies and Solutions with Proofs of Concept ( PoC ).
 
-Beggining with Google provider and try to set up all sizes Solutions.
+Beginning with Google provider and try to set up all sizes Solutions.
 
 To avoid lock-in provider, I'll try to use all possible Open Source Solutions.
 
