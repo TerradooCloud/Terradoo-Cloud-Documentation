@@ -2,14 +2,21 @@ Terradoo Cloud Documentation
 ============================
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 4
    :caption: Contents:
 
 Introduction
 ************
 
 .. toctree::
-   introduction/introduction.rst
+   introduction/index-introduction.rst
+
+Technologies
+************
+
+.. toctree::
+   technologies/index-technologies.rst
+
 
 Solutions
 *********
@@ -25,11 +32,7 @@ Providers
    providers/index-providers.rst
 
 
-Technologies
-************
 
-.. toctree::
-   technologies/index-technologies.rst
    
 
 
