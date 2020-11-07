@@ -1,5 +1,5 @@
-Welcome to Terradoo Cloud's documentation!
-==========================================
+Terradoo Cloud Documentation
+============================
 
 .. toctree::
    :maxdepth: 4
