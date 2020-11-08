@@ -20,6 +20,7 @@
 project = 'Terradoo Cloud'
 copyright = '2020, JuanDCG'
 author = 'JuanDCG'
+license = 'Apache License 2.0'
 
 
 # -- General configuration ---------------------------------------------------

@@ -1,7 +1,7 @@
 .. _index-providers:
 
 Providers
-############
+#########
 
 .. toctree::
    google/google.rst

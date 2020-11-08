@@ -4,11 +4,19 @@ Terradoo Cloud Documentation
 .. toctree::
    :maxdepth: 4
    
-   genindex
+.. toctree::
+   introduction/index-introduction.rst
 
-Indices and tables
-==================
+.. toctree::
+   technologies/index-technologies.rst
 
-* :ref:`genindex`
-* :ref:`modindex`
+.. toctree::   
+   solutions/index-solutions.rst
+
+.. toctree::   
+   providers/index-providers.rst
+
+Search
+======
+
 * :ref:`search`
