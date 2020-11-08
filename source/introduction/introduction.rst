@@ -13,7 +13,7 @@ It is 100% Open Source with Apache License, hope no conflicts with each other Op
 
 It will be Community Driven because it is based on Community Solutions and want to improve and promote each Solution.
 
-Yes, there is The Official Odoo Platform, from Odoo Enterprise. So, why Terradoo Cloud ?
+Yes, there is The Official Odoo Platform, from Odoo Enterprise. So, Why Terradoo Cloud ?
 
 
 Why ?
@@ -24,8 +24,6 @@ Because with Terradoo Cloud you can set up your Own Cloud Solution around Odoo C
 Anywhere, you can choose your Cloud Provider or set up an Multi Cloud Solution, Public, Private or Hybrid.
 
 You can Design your own Solution that meet your needs based on the proposals of Terradoo Cloud.
-
-Terradoo Cloud 
 
 
 For What ?
