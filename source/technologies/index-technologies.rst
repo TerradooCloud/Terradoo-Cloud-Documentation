@@ -53,7 +53,7 @@ Technologies
 .. toctree::
    security/index-security.rst
 
-**Email**
+**Communications**
 
 .. toctree::
-   email/index-email.rst
+   communications/index-communications.rst
