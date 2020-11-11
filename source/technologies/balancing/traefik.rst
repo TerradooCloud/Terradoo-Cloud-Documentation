@@ -1,4 +1,4 @@
-.. _traeffic:
+.. _traefik:
 
-Traeffic
+Traefik
 ########
