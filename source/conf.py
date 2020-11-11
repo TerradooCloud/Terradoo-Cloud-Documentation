@@ -58,10 +58,10 @@ html_theme_options = {
     'github_repo': 'terradoo-cloud-documentation',
     'github_user': 'TerradooCloud',
 
-    'show_related': 'False',
+    'show_related': 'True',
 
     'show_powered_by': 'True',
-    'show_relbars': 'False',
+    'show_relbars': 'True',
                     
     
 }
