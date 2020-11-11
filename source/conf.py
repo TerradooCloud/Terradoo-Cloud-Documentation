@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Terradoo Cloud'
-copyright = '2020, JuanDCG'
+copyright = '2020, Terradoo Cloud, Apache License 2.0'
 author = 'JuanDCG'
 license = 'Apache License 2.0'
 
