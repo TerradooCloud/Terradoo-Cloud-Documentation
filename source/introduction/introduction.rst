@@ -13,7 +13,7 @@ It is 100% Open Source with Apache License, hope no conflicts with each other Op
 
 It will be Community Driven because it is based on Community Solutions and want to improve and promote each Solution.
 
-Yes, there is The Official Odoo Platform, from Odoo Enterprise. So, Why Terradoo Cloud ?
+Yes, there is The Official Odoo Platform ( Odoo.sh ), from Odoo Enterprise. So, Why Terradoo Cloud ?
 
 
 Why ?
