@@ -4,4 +4,4 @@
 
 
 
-![Terradoo Cloud](source/TerradooCloud-web.png)
+![Terradoo Cloud](source/_static/images/TerradooCloud-logo.png)
