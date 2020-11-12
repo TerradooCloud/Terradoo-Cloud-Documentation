@@ -21,7 +21,7 @@ project = 'Terradoo Cloud'
 copyright = '2020, JuanDCG, Apache License 2.0'
 author = 'JuanDCG'
 license = 'Apache License 2.0'
-
+version= '0.0.1'
 
 # -- General configuration ---------------------------------------------------
 
@@ -52,7 +52,6 @@ html_theme_options = {
     'body_text_align': 'left',
     'canonical_url': 'https://documentation.terradoo.cloud/',
     'description': 'Odoo Community Infrastructures with Open Source',
-    'analytics_id':'G-D7JWV25RNE',
     'github_banner': 'True',
     'github_repo': 'terradoo-cloud-documentation',
     'github_user': 'TerradooCloud',
