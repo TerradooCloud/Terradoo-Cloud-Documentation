@@ -6,6 +6,7 @@ Technologies
 
 .. toctree::
    github/index-github.rst
+   odoo-community/index-odoo-community.rst
    infrastructure/index-infrastructure.rst
    cdn/index-cdn.rst
    dns/index-dns.rst
@@ -15,3 +16,5 @@ Technologies
    monitoring/index-monitoring.rst
    security/index-security.rst
    communications/index-communications.rst
+   storage/index-storage.rst
+   
