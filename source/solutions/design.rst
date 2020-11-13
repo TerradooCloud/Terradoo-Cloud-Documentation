@@ -1,4 +1,4 @@
-.. _desing:
+.. _design:
 
 Design
 ######
