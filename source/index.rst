@@ -7,11 +7,11 @@ Terradoo Cloud's Documentation
 .. toctree::
    introduction/index-introduction.rst
 
-.. toctree::
-   technologies/index-technologies.rst
-
 .. toctree::   
    solutions/index-solutions.rst
+
+.. toctree::
+   technologies/index-technologies.rst
 
 .. toctree::   
    providers/index-providers.rst
