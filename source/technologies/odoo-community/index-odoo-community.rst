@@ -5,4 +5,4 @@ Odoo Community
 
 
 .. toctree::
-   odoo-community.rst
+   odoo-community

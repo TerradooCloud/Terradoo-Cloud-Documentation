@@ -4,5 +4,5 @@ Introduction
 ############
 
 .. toctree::
-   introduction.rst
-   roadmap.rst
+   introduction
+   contribute

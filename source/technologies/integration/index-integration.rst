@@ -5,6 +5,6 @@ Integration
 
 
 .. toctree::
-   runbot.rst
-   gitlab.rst
-   travis.rst
+   runbot
+   gitlab
+   travis

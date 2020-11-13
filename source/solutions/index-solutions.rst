@@ -5,7 +5,7 @@ Solutions
 
 
 .. toctree::
-   terradoo-cloud-small.rst
-   terradoo-cloud-medium.rst
-   terradoo-cloud-big.rst
+   terradoo-cloud-small
+   terradoo-cloud-medium
+   terradoo-cloud-big
 

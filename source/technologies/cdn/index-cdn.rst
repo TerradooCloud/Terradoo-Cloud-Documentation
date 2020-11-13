@@ -4,4 +4,4 @@ CDN
 ###
 
 .. toctree::
-   cdn.rst
+   cdn

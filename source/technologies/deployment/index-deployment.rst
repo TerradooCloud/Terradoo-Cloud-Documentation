@@ -4,5 +4,5 @@ Deployment
 ##########
 
 .. toctree::   
-   doodba.rst
-   kubernetes.rst
+   doodba
+   kubernetes

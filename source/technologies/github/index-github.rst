@@ -4,4 +4,4 @@
 **Git Hub**
 
 .. toctree::
-   github.rst
+   github

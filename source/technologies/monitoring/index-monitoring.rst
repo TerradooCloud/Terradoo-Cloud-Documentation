@@ -5,4 +5,4 @@ Monitoring
 
 
 .. toctree::
-   opendistroforelasticsearch.rst
+   opendistroforelasticsearch

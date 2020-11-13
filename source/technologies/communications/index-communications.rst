@@ -6,14 +6,14 @@ Communications
 **Email**
 
 .. toctree::
-   email.rst
+   email
 
 **VoIP**
 
 .. toctree::
-   asterisk.rst
+   asterisk
 
 **VPN**
 
 .. toctree::
-   openvpn.rst
+   openvpn

@@ -5,4 +5,4 @@ Storage
 
 
 .. toctree::
-   postgresql.rst
+   postgresql

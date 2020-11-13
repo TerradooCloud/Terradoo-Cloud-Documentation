@@ -7,11 +7,11 @@ Infrastructure
 **Terraform**
 
 .. toctree::
-   terraform.rst
-   terragrunt.rst
-   terraform-cloud.rst
+   terraform
+   terragrunt
+   terraform-cloud
 
 **Ansible**
 
 .. toctree::
-   ansible.rst
+   ansible

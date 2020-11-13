@@ -5,4 +5,4 @@ Security
 
 
 .. toctree::
-   wazuh.rst
+   wazuh

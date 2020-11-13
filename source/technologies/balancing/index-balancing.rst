@@ -5,4 +5,4 @@ Balancing
 
 
 .. toctree::
-   traefik.rst
+   traefik
