@@ -12,7 +12,7 @@
 This Organization have a unique [Project Management](https://github.com/orgs/TerradooCloud/projects/1)   Tool that is in the GitHub integrated tool.
 
 
-# Contributors
+# Contribute
 
 0. If you like this project give a Start to Repositories.
 

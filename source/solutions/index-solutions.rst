@@ -5,7 +5,8 @@ Solutions
 
 
 .. toctree::
-   terradoo-cloud-small
-   terradoo-cloud-medium
-   terradoo-cloud-big
+   design
+   small
+   medium
+   big
 

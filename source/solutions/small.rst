@@ -1,4 +1,4 @@
-.. _terradoo-cloud-small:
+.. _small:
 
 Terradoo Cloud Small
 ####################

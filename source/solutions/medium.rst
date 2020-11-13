@@ -1,4 +1,4 @@
-.. _terradoo-cloud-medium:
+.. _medium:
 
 Terradoo Cloud Medium
 #####################
