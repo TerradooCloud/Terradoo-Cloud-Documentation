@@ -58,7 +58,7 @@ html_theme_options = {
     'sidebar_collapse': 'True',
     'fixed_sidebar': 'True',
     'show_related': 'True',
-    'show_powered_by': 'True',
+    'show_powered_by': 'False',
     'show_relbars': 'True',
                     
     
