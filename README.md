@@ -29,4 +29,4 @@ This Organization have a unique [Project Management](https://github.com/orgs/Ter
 
 # License
 
-Apache License 2.0, by JuanDCG and Contributors
+&copy; 2020, Owned by JuanDCG (Juan Del Castillo Gómez) and Contributors with Apache License 2.0
