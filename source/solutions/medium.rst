@@ -1,4 +1,4 @@
 .. _medium:
 
-Terradoo Cloud Medium
-#####################
+Medium
+######
