@@ -13,7 +13,7 @@
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
-
+import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
@@ -28,7 +28,7 @@ version= '1.0'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = [
+extensions = ["sphinx_rtd_theme"
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -45,29 +45,35 @@ exclude_patterns = []
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+html_theme = 'sphinx_rtd_theme'
+html_logo = '_themes/images/TerradooCloud-logo.png'
 html_theme_options = {
-
-    'logo': 'images/TerradooCloud-logo.png',
-    'body_text_align': 'left',
+    
     'canonical_url': 'https://documentation.terradoo.cloud/',
-    'description': 'Odoo Community Infrastructures with Open Source',
+    'analytics_id': 'G-D7JWV25RNE',  #  Provided by Google in your dashboard
+    'logo_only': True,
+    'display_version': True,
+    'prev_next_buttons_location': 'bottom',
+    'style_external_links': True,
+    'style_nav_header_background': 'white',
+    # Toc options
+    'collapse_navigation': True,
+    'sticky_navigation': True,
+    'navigation_depth': 4,
+    'includehidden': True,
+    'titles_only': False               
     
-    'github_banner': 'True',
-    'github_repo': 'terradoo-cloud-documentation',
-    'github_user': 'TerradooCloud',
-    
-    
-    'sidebar_collapse': 'True',
-    'fixed_sidebar': 'True',
-    'show_related': 'True',
-    'show_powered_by': 'False',
-    'show_relbars': 'True',
-                    
-    
+}
+
+html_context = {
+    'display_github': 'True', # Integrate GitHub
+    'github_user': 'TerradooCloud', # Username
+    'github_repo': 'terradoo-cloud-documentation', # Repo name
+    'github_version': 'main', # Version
+    'conf_py_path': '/', # Path in the checkout to the docs root
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
+html_static_path = ['_themes']
