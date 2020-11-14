@@ -51,17 +51,17 @@ html_theme_options = {
     
     'canonical_url': 'https://documentation.terradoo.cloud/',
     'analytics_id': 'G-D7JWV25RNE',  #  Provided by Google in your dashboard
-    'logo_only': True,
-    'display_version': True,
+    'logo_only': 'True',
+    'display_version': 'True',
     'prev_next_buttons_location': 'bottom',
-    'style_external_links': True,
+    'style_external_links': 'True',
     'style_nav_header_background': 'white',
     # Toc options
-    'collapse_navigation': True,
-    'sticky_navigation': True,
-    'navigation_depth': 4,
-    'includehidden': True,
-    'titles_only': False               
+    'collapse_navigation': 'True',
+    'sticky_navigation': 'True',
+    'navigation_depth': '4',
+    'includehidden': 'True',
+    'titles_only': 'False'               
     
 }
 
