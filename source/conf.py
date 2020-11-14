@@ -52,9 +52,12 @@ html_theme_options = {
     'body_text_align': 'left',
     'canonical_url': 'https://documentation.terradoo.cloud/',
     'description': 'Odoo Community Infrastructures with Open Source',
+    
     'github_banner': 'True',
     'github_repo': 'terradoo-cloud-documentation',
     'github_user': 'TerradooCloud',
+    
+    
     'sidebar_collapse': 'True',
     'fixed_sidebar': 'True',
     'show_related': 'True',

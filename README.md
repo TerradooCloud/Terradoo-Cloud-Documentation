@@ -20,9 +20,9 @@ This Organization have a unique [Project Management](https://github.com/orgs/Ter
 
 2. If you want to add changes or improvements, Fork this repository and contribute with Pull Request.
 
-3. If you want to be a (Collaborator and Team Player)[https://github.com/orgs/TerradooCloud/teams/terradoo-cloud-team], I'll invite you or let me know.
+3. If you want to be a [Collaborator and Team Player](https://github.com/orgs/TerradooCloud/teams/terradoo-cloud-team), I'll invite you or let me know.
 
-4. If you are amazing with the project ["Terradoo Cloud"](https://web.terradoo.cloud), I'll invite you as outside collaborator to the [Organization](https://github.com/TerradooCloud) or we can negotiate level access to the [Organization](https://github.com/TerradooCloud).
+4. If you are amazing with the project, I'll invite you as outside collaborator to the [Organization](https://github.com/TerradooCloud) or we can negotiate access level to the [Organization](https://github.com/TerradooCloud).
 
 5. If you prefer, you can reach me by [email](mailto:contact@terradoo.cloud). I'll be excited.
 
