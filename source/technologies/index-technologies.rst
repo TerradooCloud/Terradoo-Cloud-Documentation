@@ -11,6 +11,7 @@ Technologies
    dns/index-dns
    api-gateway/index-api-gateway
    proxy/index-proxy
+   mesh/index-mesh
    integration/index-integration
    communications/index-communications
    deployment/index-deployment
