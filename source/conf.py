@@ -32,7 +32,7 @@ extensions = ["sphinx_rtd_theme"]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
-html_style = 'css/terradoo-cloud-style.css'
+
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
@@ -45,6 +45,7 @@ exclude_patterns = []
 # a list of builtin themes.
 #
 html_theme = 'sphinx_rtd_theme'
+html_style = 'css/terradoo-cloud-style.css'
 html_logo = '_themes/images/TerradooCloud-logo.png'
 html_theme_options = {
     
