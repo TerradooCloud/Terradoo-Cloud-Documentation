@@ -1,9 +1,7 @@
-Terradoo Cloud's Documentation
-==============================
+Terradoo Cloud
+==============
 
-.. toctree::
-   :maxdepth: 4
-   
+  
 .. toctree::
    introduction/index-introduction
 
@@ -15,8 +13,3 @@ Terradoo Cloud's Documentation
 
 .. toctree::   
    providers/index-providers
-
-Search
-======
-
-* :ref:`search`
