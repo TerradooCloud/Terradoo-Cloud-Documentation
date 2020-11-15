@@ -1,7 +1,7 @@
 
 
  
- ![Terradoo Cloud](source/_static/images/TerradooCloud-logo.png)
+![Terradoo Cloud](source/_static/images/TerradooCloud-logo.png)
 
 
 
