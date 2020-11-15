@@ -1,7 +1,7 @@
 .. _index-storage:
 
-Storage
-#######
+Odoo Storage
+############
 
 
 .. toctree::

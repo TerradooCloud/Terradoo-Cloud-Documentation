@@ -4,6 +4,6 @@ Providers
 #########
 
 .. toctree::
-   google/google
-   azure/azure
-   aws/aws
+   google/gke
+   azure/aks
+   aws/eks

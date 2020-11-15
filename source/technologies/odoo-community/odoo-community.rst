@@ -3,11 +3,13 @@
 Odoo Community
 ##############
 
+Odoo Community Associantion
+***************************
 
 https://github.com/OCA
 
 
-
-https://docs.bitnami.com/kubernetes/get-started-gke/
+Bitnami Odoo
+************
 
 https://artifacthub.io/packages/helm/bitnami/odoo

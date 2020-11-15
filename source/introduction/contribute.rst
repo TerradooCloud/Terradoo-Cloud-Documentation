@@ -8,7 +8,7 @@ Contribute
 Project Management Tool
 ***********************
 
-This Organization have a unique `Project Management Tool <https://github.com/orgs/TerradooCloud/projects/1>`_, that is in the GitHub integrated tool.
+ This Organization have a unique `Project Management Tool <https://github.com/orgs/TerradooCloud/projects/1>`_, that is in the GitHub integrated tool.
 
 
 Contribute
