@@ -1,19 +1,18 @@
 
-=============
+
  
  ![Terradoo Cloud](source/_static/images/TerradooCloud-logo.png)
 
 
-=============
 
 
 # Project Documentation Site
 
- The [documentation site is located at](https://documentation.terradoo.cloud/)
+ The [documentation site](https://documentation.terradoo.cloud/)
 
 # Project Management
 
- This Organization have a unique [Project Management](https://github.com/orgs/TerradooCloud/projects/1)   Tool that is in the GitHub integrated tool.
+ This Organization have a unique [Project Management Tools](https://github.com/orgs/TerradooCloud/projects/1) that is in the GitHub integrated tool.
 
 
 
