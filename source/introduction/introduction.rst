@@ -7,52 +7,54 @@ Introduction
 What Is ?
 *********
 
-Terradoo Cloud is a set of Open Source Solutions working together to build an Multi Cloud Open Source set of Solutions around Odoo Community.
+ The main objective of Terradoo Cloud is to move Odoo to the Native Multi Cloud.
 
-It is 100% Open Source with Apache License, hope no conflicts with each other Open Source Solutions that Support Terradoo Cloud.
+ With an approach based on microservices it intents to build a solution for Odoo Community on a Multi Cloud Native Architecture.
 
-It will be Community Driven because it is based on Community Solutions and want to improve and promote each Solution.
+ OpenERP is well-designed software but inherated a monolithic approach.
 
-Yes, there is The Official Odoo Platform `Odoo.sh <https://www.odoo.sh/>`_, from Odoo Enterprise. So, Why Terradoo Cloud ?
+ Luckely, it's designed with MVC web server patron and it has a powerfull ORM with a great database together.
+
+ So, ideally could be possible split in microservices Odoo itself. But, it isn't the main goal of this project.
+
+ However, OpenERP/Odoo need other services to delivery cloud applications nowdays that could be integrate easily together.
+
+ For example, to build a Odoo Community solution you need more services for email, communication, backup, monitoring, logging, tracing, security,
+ domain names, networking...
+
+ So, Odoo.sh offers it, exactily. A set of services around Odoo that meet cloud and modern principles such as DevOps. So, Why Terradoo Cloud ?
+
 
 
 Why ?
 *****
 
-Because with Terradoo Cloud you can set up your Own Cloud Solution around Odoo Community.
+ Because with Terradoo Cloud you can set up your own Multi Cloud Solution around Odoo Community.
 
-Anywhere, you can choose your Cloud Provider or set up an Multi Cloud Solution, Public, Private or Hybrid.
-
-You can Design your own Solution that meet your needs based on the proposals of Terradoo Cloud.
-
-
-For What ?
-**********
-
-To improve Odoo Community ecosystem. Foll all Business sizes, form Small, to Medium, to Big size.
-
-To improve all Solutions or Technologies used by Terradoo Cloud.
+ Terradoo Cloud is 100% Open Source with Apache License and it will be based on other open source software projects.
 
 
 How ?
 *****
 
-Putting together all technologies around Odoo Community.
+ Terradoo Cloud is a set of open source software working together to build an Multi Cloud Native Open Source around Odoo Community.
 
-Improving and Promoting each Technology, Improve and Promote each Community.
+ Anywhere, you can choose your Cloud Provider or set up a Multi Cloud Solution, Public, Private or Hybrid.
+
+ Putting together all technologies around Odoo Community.
+
+ To improve and promote each technology and thus improve and promote each software community.
+
+ Besides, it is Community-Driven as it is based on open source projects and it intents to improve and promote each project.
+
+ So, you can design your own solution that meet your needs based on the proposals of Terradoo Cloud.
 
 
-Who can help ?
-**************
+For What ?
+**********
 
-Anyone interested in any Technology can focus on that technology and Colaborate with that Community.
+ To improve Odoo Community ecosystem.
 
-Of course, anyone interested in Odoo Community can help to improve that.
+ To improve all technologies used by Terradoo Cloud.
 
-
-How you can help ?
-******************
-
-Writting Content, Coding Software, Testing Quality, Suggesting Issues, Asking, Answering...
-
-You can help participating anyway. Be Free !
+ So, you can design your own solution that meet your needs based on the proposal experiments of Terradoo Cloud.

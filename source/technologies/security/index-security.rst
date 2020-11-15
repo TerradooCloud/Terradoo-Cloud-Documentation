@@ -5,4 +5,8 @@ Security
 
 
 .. toctree::
+   vault
+   falco
+   securecodebox
+   klustair
    wazuh

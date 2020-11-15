@@ -1,4 +1,0 @@
-.. _openstack:
-
-Open Stack
-##########

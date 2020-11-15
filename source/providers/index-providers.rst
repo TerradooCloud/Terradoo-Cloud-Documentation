@@ -7,4 +7,3 @@ Providers
    google/google
    azure/azure
    aws/aws
-   openstack/openstack

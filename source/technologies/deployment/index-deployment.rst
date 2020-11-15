@@ -4,5 +4,4 @@ Deployment
 ##########
 
 .. toctree::   
-   doodba
    kubernetes

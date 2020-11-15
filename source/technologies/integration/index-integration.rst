@@ -6,5 +6,6 @@ Integration
 
 .. toctree::
    runbot
+   argoproj
    gitlab
-   travis
+   harbor

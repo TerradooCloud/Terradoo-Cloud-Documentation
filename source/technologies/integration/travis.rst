@@ -1,4 +1,0 @@
-.. _travis:
-
-Travis
-######

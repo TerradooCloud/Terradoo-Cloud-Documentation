@@ -4,4 +4,5 @@ CDN
 ###
 
 .. toctree::
-   cdn
+   dragonfly
+   kubecdn

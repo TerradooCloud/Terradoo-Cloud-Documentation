@@ -5,16 +5,16 @@ Terradoo Cloud's Documentation
    :maxdepth: 4
    
 .. toctree::
-   introduction/index-introduction.rst
+   introduction/index-introduction
 
 .. toctree::   
-   solutions/index-solutions.rst
+   solution/index-solution
 
 .. toctree::
-   technologies/index-technologies.rst
+   technologies/index-technologies
 
 .. toctree::   
-   providers/index-providers.rst
+   providers/index-providers
 
 Search
 ======

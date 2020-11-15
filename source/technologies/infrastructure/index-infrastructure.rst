@@ -10,8 +10,3 @@ Infrastructure
    terraform
    terragrunt
    terraform-cloud
-
-**Ansible**
-
-.. toctree::
-   ansible
