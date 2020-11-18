@@ -15,7 +15,7 @@ What Is ?
 
   Luckely, it's designed with MVC web server patron and it has a powerfull ORM with a great database together.
 
-  So, ideally could be possible split into microservices Odoo itself. But, it isn't the main goal of this project.
+  So, ideally, it could be possible split into microservices Odoo itself. But, it isn't the main goal of this project.
 
   However, OpenERP/Odoo need other services to delivery cloud applications nowdays that could be integrate easily together.
 
