@@ -6,3 +6,4 @@ DNS
 
 .. toctree::
    coredns
+   external-dns
