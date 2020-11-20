@@ -46,7 +46,7 @@ exclude_patterns = []
 #
 html_theme = 'sphinx_rtd_theme'
 html_style = 'css/terradoo-cloud-style.css'
-html_logo = '_themes/images/TerradooCloud-logo.png'
+html_logo = '_themes/images/Terradoo-new-logo.png'
 html_theme_options = {
     
     'canonical_url': 'https://documentation.terradoo.cloud/',
