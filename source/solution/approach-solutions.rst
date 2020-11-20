@@ -7,7 +7,7 @@ Approach Solutions
 atScale Solutions
 *****************
 
-CNFC-based
+CNCF-based
 ==========
 
   - Is Open Source Stack
