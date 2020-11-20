@@ -6,4 +6,4 @@ Solution
 
 .. toctree::
    design
-   
+   approach-solutions

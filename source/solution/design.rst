@@ -9,13 +9,13 @@ Microservices Architecture
 Patron design solution: `The Twelve-Factor APP Design <https://12factor.net/>`_
 
 
-`CNCF Overview 2020 <https://docs.google.com/presentation/d/1UGewu4MMYZobunfKr5sOGXsspcLOH_5XeCLyOHKh9LU/>`_
+`CNCF Overview Landscape <https://landscape.cncf.io/>`_
 
 
 Considerations
 **************
 
--  Design Solution Terradoo Cloud
+-  Design Solution
 
     -  Define Proof of Concept ( Business Study Case )
 
@@ -23,6 +23,7 @@ Considerations
       -  Define Billing 
       -  Define Business SLI 
       -  Define Business SLO
+      -  Define Business SLA
 
     -  Design Technical Solution
 
@@ -38,3 +39,17 @@ Considerations
           -  Design Security Solution
           -  Design Monitoring Solution
           -  Design Communications Solution
+
+
+General Workflow
+****************
+
+  - GitHub as VCS with Terraform templates
+
+  - Terraform Cloud Operator for Multi Cloud Infrastrucure Layer
+
+  - Provision Kubernetes Layer
+  
+  - Provision Helmv3 Layer
+
+  - Provision custom charts from ArtifactHub for custom stack around Odoo Community
