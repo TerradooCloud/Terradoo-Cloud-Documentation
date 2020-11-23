@@ -1,6 +1,6 @@
-.. _approach-solutions:
+.. _solutions-approach:
 
-Approach Solutions
+Solutions Approach
 ##################
 
 

@@ -6,7 +6,7 @@ Terradoo Cloud
    introduction/index-introduction
 
 .. toctree::   
-   solution/index-solution
+   solutions/index-solutions
 
 .. toctree::
    technologies/index-technologies

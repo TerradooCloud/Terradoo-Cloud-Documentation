@@ -15,7 +15,7 @@ Patron design solution: `The Twelve-Factor APP Design <https://12factor.net/>`_
 Considerations
 **************
 
--  Design Solution
+-  Design Solutions
 
     -  Define Proof of Concept ( Business Study Case )
 
@@ -25,20 +25,20 @@ Considerations
       -  Define Business SLO
       -  Define Business SLA
 
-    -  Design Technical Solution
+    -  Design Technical Solutions
 
         -  Define Technical Requirements
         -  Define Technical KPI
-        -  Design Infrastructure Architecture Solution
+        -  Design Infrastructure Architecture Solutions
         
-          -  Design Integration Solution
-          -  Design Storage Solution
-          -  Design Network Solution
-          -  Design Deployment Solution
-          -  Design Reliable Scalable Solution
-          -  Design Security Solution
-          -  Design Monitoring Solution
-          -  Design Communications Solution
+          -  Design Integration Solutions
+          -  Design Storage Solutions
+          -  Design Network Solutions
+          -  Design Deployment Solutions
+          -  Design Reliable Scalable Solutions
+          -  Design Security Solutions
+          -  Design Monitoring Solutions
+          -  Design Communications Solutions
 
 
 General Workflow
