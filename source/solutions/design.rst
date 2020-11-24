@@ -6,7 +6,7 @@ Design
 Microservices Architecture
 **************************
 
-Patron design solution: `The Twelve-Factor APP Design <https://12factor.net/>`_
+Pattern design: `The Twelve-Factor APP Design <https://12factor.net/>`_
 
 
 `CNCF Overview Landscape <https://landscape.cncf.io/>`_
