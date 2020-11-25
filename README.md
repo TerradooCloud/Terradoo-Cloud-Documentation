@@ -95,4 +95,4 @@ Contribute
 License
 =======
 
- By "Juan Del Castillo Gómez" and "Contributors" with AGPL-3.0
+ AGPL-3.0 by "Juan Del Castillo Gómez" and "Contributors".
