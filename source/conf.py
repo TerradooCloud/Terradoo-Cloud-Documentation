@@ -18,9 +18,9 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
 project = 'Terradoo Cloud'
-copyright = '2020, JuanDCG (Juan Del Castillo Gómez) and Contributors with Apache License 2.0'
+copyright = '"Juan Del Castillo Gómez" and "Contributors" with AGPL-3.0'
 author = 'JuanDCG (Juan Del Castillo Gómez)'
-license = 'Apache License 2.0'
+license = 'AGPL-3.0'
 version= '1.0'
 
 # -- General configuration ---------------------------------------------------
