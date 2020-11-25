@@ -95,4 +95,4 @@ Contribute
 License
 =======
 
- &copy; 2020, Owned by JuanDCG ( "Juan Del Castillo Gómez" ) and "Contributors" with Apache License 2.0
+ By "Juan Del Castillo Gómez" and "Contributors" with AGPL-3.0
