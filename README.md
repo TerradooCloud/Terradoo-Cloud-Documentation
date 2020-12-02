@@ -1,4 +1,7 @@
 
+|[Terradoo Cloud Logo](source/_themes/images/TerradooCloud-logo.png)
+
+
 What is Terradoo Cloud ?
 ========================
 
