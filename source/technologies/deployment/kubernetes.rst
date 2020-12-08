@@ -46,3 +46,19 @@ Operator Framework
 ******************
 
 https://operatorframework.io/
+
+
+Rancher
+*******
+
+https://github.com/rancher/rancher
+
+https://rancher.com/
+
+
+Bitnami Kubernetes Production Runtime
+*************************************
+
+https://kubeprod.io/
+
+https://github.com/bitnami/kube-prod-runtime

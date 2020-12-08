@@ -1,4 +1,4 @@
-.. _index-mesh:
+.. _index-service-mesh:
 
 Mesh
 ####

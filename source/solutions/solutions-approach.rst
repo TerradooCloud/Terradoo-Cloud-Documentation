@@ -17,22 +17,10 @@ CNCF-based
 Hashicorp-based
 ===============
 
-  - Provisioning Infrastructure: Terraform Cloud
+  - Provisioning Infrastructure: Terraform
   - Service Mesh: Consul
   - Security: Vault
   - Application: Nomad
-
-
-
-Small-Medium size Solutions
-***************************
-
-
-Doodba-based
-============
-
-  - Odoo on Docker-based Solution
-
 
 
 
