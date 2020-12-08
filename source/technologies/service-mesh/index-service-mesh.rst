@@ -1,7 +1,7 @@
 .. _index-service-mesh:
 
-Mesh
-####
+Service Mesh
+############
 
 
 .. toctree::
