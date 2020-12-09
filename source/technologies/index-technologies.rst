@@ -10,7 +10,7 @@ Technologies
    dns/index-dns
    api-gateway/index-api-gateway
    proxy/index-proxy
-   mesh/index-service-mesh
+   service-mesh/index-service-mesh
    ci-cd/index-ci-cd
    communications/index-communications
    deployment/index-deployment
