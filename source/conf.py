@@ -51,7 +51,7 @@ html_logo = '_themes/images/TerradooCloud-logo.png'
 html_theme_options = {
     
     'canonical_url': 'https://documentation.terradoo.cloud/',
-    'analytics_id': 'G-D7JWV25RNE',
+    'global_analytics_code': 'G-D7JWV25RNE',
     'logo_only': 'True',
     'display_version': 'True',
     'prev_next_buttons_location': 'bottom',
